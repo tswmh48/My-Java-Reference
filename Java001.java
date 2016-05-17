@@ -8,6 +8,7 @@
 public class Java001{
 	// mainメソッド
 	public static void main(String[] args){
+		// 文字列を描画する命令文
 		System.out.println("Hello World");
 	}
 }
